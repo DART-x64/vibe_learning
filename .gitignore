@@ -1,0 +1,11 @@
+# 의존성
+node_modules/
+
+# 환경변수
+.env
+.env.local
+
+# OS별 시스템 파일
+.DS_Store
+Thumbs.db
+desktop.ini
