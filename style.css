@@ -1,0 +1,25 @@
+body {
+    font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    color: #2563eb;
+}
+
+button {
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1d4ed8;
+}
