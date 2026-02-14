@@ -9,3 +9,6 @@ node_modules/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# git ignore의 주석은 그냥 #이네. 이건 좀 익숙함
+# 저장하지 않으니 git status에 반영되진 않음
